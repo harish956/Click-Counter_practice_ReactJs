@@ -1,0 +1,32 @@
+/* Write your CSS here */
+body {
+  margin: 0;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f1f5f8;
+}
+.countValue {
+  color: #c20a72;
+}
+.heading {
+  color: #2d3a35;
+  text-align: center;
+}
+.para {
+  color: #2d3a35;
+}
+.button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  height: 35px;
+  width: 80px;
+}
